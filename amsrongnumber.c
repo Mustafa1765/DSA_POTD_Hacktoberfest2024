@@ -1,5 +1,7 @@
-//check for armstrong number
+// https://www.geeksforgeeks.org/c-program-to-check-armstrong-number/
+
 // C program to find Armstrong number
+
 #include <stdio.h>
 
 // Function to calculate x raised to 
